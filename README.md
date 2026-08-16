@@ -133,12 +133,12 @@ Goal: Get MonoGame running and establish the minimum foundation.
 
 ## 0.2 — Basic game loop
 
-- [ ] Understand `Game.Initialize()`
-- [ ] Understand `Game.LoadContent()`
-- [ ] Understand `Game.Update()`
-- [ ] Understand `Game.Draw()`
-- [ ] Add basic delta-time handling
-- [ ] Add basic debug logging
+- [x] Understand `Game.Initialize()`
+- [x] Understand `Game.LoadContent()`
+- [x] Understand `Game.Update()`
+- [x] Understand `Game.Draw()`
+- [x] Add basic delta-time handling
+- [x] Add basic debug logging
 
 **Result:** A functioning game loop.
 
