@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formici.Core", "Formici\Formici.Core\Formici.Core.csproj", "{152A2ECC-F723-44CF-A506-63AFC73B53B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formici.DesktopGL", "Formici\Formici.DesktopGL\Formici.DesktopGL.csproj", "{CADC4ACF-3667-4173-80F6-198585318AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152A2ECC-F723-44CF-A506-63AFC73B53B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152A2ECC-F723-44CF-A506-63AFC73B53B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152A2ECC-F723-44CF-A506-63AFC73B53B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152A2ECC-F723-44CF-A506-63AFC73B53B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADC4ACF-3667-4173-80F6-198585318AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC4ACF-3667-4173-80F6-198585318AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC4ACF-3667-4173-80F6-198585318AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC4ACF-3667-4173-80F6-198585318AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/jimmyvanwieringen/RiderProjects/Formici/Formici/Formici.Core/Content/Fonts/Hud.spritefont</SourceFile>
+  <SourceTime>2026-08-14T12:56:35.9868543+02:00</SourceTime>
+  <DestFile>/Users/jimmyvanwieringen/RiderProjects/Formici/Formici/Formici.Core/Content/bin/DesktopGL/Formici/Fonts/Hud.xnb</DestFile>
+  <DestTime>2026-08-14T12:58:19.922436+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2026-07-15T18:21:24+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2026-07-15T18:21:24+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
