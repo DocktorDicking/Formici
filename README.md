@@ -120,12 +120,12 @@ Goal: Get MonoGame running and establish the minimum foundation.
 
 ## 0.1 — Create the project
 
-- [ ] Create MonoGame DesktopGL project
-- [ ] Target modern .NET
-- [ ] Create Git repository
-- [ ] Create initial README
-- [ ] Verify project builds
-- [ ] Verify game launches
+- [x] Create MonoGame DesktopGL project
+- [x] Target modern .NET
+- [x] Create Git repository
+- [x] Create initial README
+- [x] Verify project builds
+- [x] Verify game launches
 
 **Result:** Empty MonoGame window.
 
