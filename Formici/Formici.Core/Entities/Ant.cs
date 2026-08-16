@@ -46,7 +46,7 @@ namespace Formici.Core.Entities
         }
 
         /// <summary>
-        /// Draws the ant as a tiny black rectangle.
+        /// Draws the aunt as a tiny black rectangle.
         /// </summary>
         public void Draw(SpriteBatch spriteBatch, Texture2D pixelTexture)
         {
@@ -73,9 +73,14 @@ namespace Formici.Core.Entities
             );
         }
         
-        public void Rotate()
+        public void Rotate(int radians)
         {
             
+        }
+        
+        public void Move()
+        {
+
         }
     }
 }
