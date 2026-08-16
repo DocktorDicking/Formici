@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formici.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ea796c58ac99274d80bdb6abe286dea08838e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99677a9414e19060ee81aa2549792210468ad421")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formici.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formici.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
